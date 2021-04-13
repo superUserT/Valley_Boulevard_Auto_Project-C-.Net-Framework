@@ -1,0 +1,13 @@
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley Boulevard Auto.csprojAssemblyReference.cache
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley_Boulevard_Auto.Form01.resources
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\ValleyBoulevardAutoCenter.VBAutoCenter.resources
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley_Boulevard_Auto.Properties.Resources.resources
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley Boulevard Auto.csproj.GenerateResource.cache
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley Boulevard Auto.csproj.CoreCompileInputs.cache
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\bin\Debug\Valley Boulevard Auto.exe.config
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\bin\Debug\Valley Boulevard Auto.exe
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\bin\Debug\Valley Boulevard Auto.pdb
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley Boulevard Auto.exe
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley Boulevard Auto.pdb
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley_Boulevard_Auto.Form03.resources
+C:\Users\Thabiso Rantsho\source\repos\Valley Boulevard Auto\obj\Debug\Valley_Boulevard_Auto.Form04.resources
